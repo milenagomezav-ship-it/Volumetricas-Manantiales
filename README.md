@@ -1,4 +1,4 @@
-# Registro de volumétricas · Manantiales
+# Registro de volumétricas Manantiales
 
 App web instalable para registrar cada día la lectura **inicial** y **final** de las 9 volumétricas.
 Consumo en m³ = (final − inicial) × factor (10 en general; 1 en V8, pozo profundo). La inicial de cada día
