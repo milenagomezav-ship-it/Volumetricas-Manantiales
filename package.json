@@ -1,0 +1,11 @@
+{
+  "name": "volumetricas-manantiales",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Registro diario de lecturas de las 9 volumétricas de Manantiales",
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@neondatabase/serverless": "^0.10.4"
+  }
+}
